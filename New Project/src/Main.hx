@@ -11,7 +11,7 @@ class Main
 	
 	static function main() 
 	{
-		Sys.println("test2");
+		Sys.println("test4");
 	}
 	
 }
